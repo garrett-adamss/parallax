@@ -1,12 +1,11 @@
 <template>
   <header>
-    <Navbar />
   </header>
   <main>
     <router-view />
   </main>
-   <footer class="bg-dark text-light">
-    Made with 💖 by CodeWorks
+   <footer class="mb-2">
+    made by garrett-adamss 
   </footer>
 </template>
 
