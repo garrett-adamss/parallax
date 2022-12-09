@@ -5,7 +5,7 @@
     slowish
     </div>
     <div class="rellax" data-rellax-speed="7">
-      fast
+      fast rellax testing
     </div>
     <div class="rellax" data-rellax-speed="-5">
       slow
